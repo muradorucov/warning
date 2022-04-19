@@ -1,3 +1,3 @@
 while (true) {
-    document.write('Всем привет!');
+    console.log('Всем привет!');
 }
